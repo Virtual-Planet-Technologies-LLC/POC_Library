@@ -1,0 +1,22 @@
+{
+  "name": "tech.virtualplanet.library",
+  "version": "1.0.0",
+  "displayName": "POC Library",
+  "description": "This is a POC for Unity Library",
+  "unity": "2020.3",
+  "unityRelease": "14f1",
+  "documentationUrl": "https://virtualplanet.tech/",
+  "changelogUrl": "https://virtualplanet.tech/changelog",
+  "licensesUrl": "https://virtualplanet.tech/licenses",
+  "dependencies": {},
+ "keywords": [
+    "virtualplanet",
+    "poc",
+    "library"
+  ],
+  "author": {
+    "name": "Virtual Planet",
+    "email": "developer@virtualplanet.tech",
+    "url": "https://virtualplanet.tech/"
+  }
+}
