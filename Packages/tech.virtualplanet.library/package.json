@@ -8,8 +8,7 @@
   "documentationUrl": "https://virtualplanet.tech/",
   "changelogUrl": "https://virtualplanet.tech/changelog",
   "licensesUrl": "https://virtualplanet.tech/licenses",
-  "dependencies": {},
- "keywords": [
+  "keywords": [
     "virtualplanet",
     "poc",
     "library"
